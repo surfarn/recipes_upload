@@ -1,0 +1,62 @@
+{
+  "title": "Kycklinggryta med kokos, cashew och spenat",
+  "portions": 4,
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "ingredients": [
+    { "amount": 2, "unit": "klyfta", "name": "vitlök" },
+    { "amount": 50, "unit": "g", "name": "cashewnötter, naturella" },
+    { "amount": 100, "unit": "g", "name": "riven kokos" },
+    { "amount": 1, "unit": "tsk", "name": "torkad gurkmeja" },
+    { "amount": 1, "unit": "tsk", "name": "spiskummin" },
+    { "amount": 2, "unit": "msk", "name": "smör" },
+    { "amount": 600, "unit": "g", "name": "kycklinglårfilé, i bitar" },
+    { "amount": null, "unit": null, "name": "salt och peppar, efter smak" },
+    { "amount": 2, "unit": "dl", "name": "vispgrädde" },
+    { "amount": 200, "unit": "g", "name": "färsk bladspenat, grovhackad" }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Lägg vitlök och cashewnötter i mixerskålen.",
+      "thermomix": { "function": "mix", "time": "10 sek", "speed": 8 }
+    },
+    {
+      "step": 2,
+      "description": "Skrapa ner från kanterna. Tillsätt kokos, gurkmeja och spiskummin.",
+      "thermomix": { "function": "mix", "time": "5 sek", "speed": 5 }
+    },
+    {
+      "step": 3,
+      "description": "Ställ blandningen åt sidan. Lägg smör och hälften av kycklingen i mixerskålen.",
+      "thermomix": { "function": "high temp", "time": "5 min" }
+    },
+    {
+      "step": 4,
+      "description": "Upprepa med resterande kyckling om nödvändigt. Krydda med salt och peppar."
+    },
+    {
+      "step": 5,
+      "description": "Lägg tillbaka all kyckling i mixerskålen. Tillsätt cashew-kokosblandningen och vispgrädde.",
+      "thermomix": { "function": "cook", "time": "5 min", "temperature": "98°C", "speed": 1, "stirring": true }
+    },
+    {
+      "step": 6,
+      "description": "Tillsätt bladspenat.",
+      "thermomix": { "function": "cook", "time": "2 min", "temperature": "98°C", "speed": 1, "stirring": true }
+    },
+    {
+      "step": 7,
+      "description": "Smaka av med salt och peppar. Servera gärna med ris eller naanbröd."
+    }
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": "38 g",
+    "fat": "45 g",
+    "carbohydrates": "18 g",
+    "fiber": "5 g"
+  },
+  "tags": ["kyckling", "gryta", "kokos", "cashew", "spenat", "middag", "thermomix", "tm6"]
+}
